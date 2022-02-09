@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+
+body {
+    background-color: rgb(250, 250, 219);
+}
+
+.heading {
+    text-align: center;
+    color: darkblue;
+    font-family: 'Festive', cursive;
+}
+
+.img {
+height: 400px;
+width: 700px;
+margin: 0 auto;
+}
+
+.img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.heading-ingreadients {
+    color: darkblue;
+    text-align: center;
+    font-family: 'Festive', cursive;
+}
+.ingredients {
+    border: 1px solid;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: darkblue;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+.heading-instructions {
+    font-family: 'Festive', cursive;
+    text-align: center;
+    color: darkblue;
+}
+.instructions {
+    border: 1px solid black;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: darkblue;
+}
+
+.instructions ol {
+    border: 1px solid black;
+margin: 0 auto;
+width: 75%;
+}
+
+.paragraph {
+    color: darkblue;
+    text-align: center;
+}
+
+.footer {
+    color: darkblue;
+    text-align: center;
+}
